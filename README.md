@@ -1,5 +1,4 @@
 # pmmlParser
 JPMML解析pmml 模型的例子
-调用方式：java -jar pmmlParser.jar [pmml file] [model input args]
-\n
+调用方式：java -jar pmmlParser.jar [pmml file] [model input args] <br/>
 example：java -jar pmmlParser.jar iris_rf.pmml irisv2.csv
