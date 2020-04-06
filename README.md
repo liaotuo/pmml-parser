@@ -10,4 +10,4 @@
 - 调用方式
   详情见测试用例
 ## Contact
-- E-mail liaotuo.io@qq.com
+- E-mail liaotuocn@gmail.com
